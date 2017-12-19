@@ -1,0 +1,21 @@
+header
+    nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
+
+        a.navbar-brand(href="#") Agenda
+
+        button.navbar-toggler(type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation")
+            span.navbar-toggler-icon
+
+        #navbarText.collapse.navbar-collapse
+
+            ul.navbar-nav.mr-auto
+            
+                li.nav-item.active
+                    a.nav-link(href="/") Home
+                        span.sr-only (current)
+                
+                li.nav-item
+                    a.nav-link(href="#!/users") Usuarios
+
+                li.nav-item
+                    a.nav-link(href="#!/pets") Mascotas

@@ -1,0 +1,11 @@
+
+
+¿Qué es el 'use strict' y como funciona?
+
+¿Qué es jade (.pug) y como funciona?
+
+¿Bajo que modelado se establace angular?
+
+¿Cuál es la función principal de gulp?
+
+¿Qué significa npm y para qué se usa?
